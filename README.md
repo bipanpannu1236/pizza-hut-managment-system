@@ -1,0 +1,2 @@
+# pizza-hut-managment-system
+This program is based on the fundamental idea of managing pizza orders,  with a register and login framework. • The system is an attempt to provide customers with a benefits of systematic  order management. • The whole project is in c++, no other language is used. • We used c++ graphics to make it look attractive.  • We added a variety of different food items and made more than 6 pages. • We made this project on Code::Blocks 20.0
